@@ -1,0 +1,24 @@
+/* screen - after-workshops-evaluation */
+
+.after-workshops-evaluation {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  padding: 189px 201px;
+  width: 1512px;
+}
+
+.after-workshops-evaluation .question {
+  letter-spacing: 0;
+  margin-top: 107px;
+  min-height: 38px;
+  width: 428px;
+}
+
+.after-workshops-evaluation .rectangle-10 {
+  height: 416px;
+  margin-top: 43px;
+  width: 932px;
+}

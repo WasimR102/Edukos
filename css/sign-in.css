@@ -1,0 +1,322 @@
+/* screen - sign-in-page-2 */
+/* 
+1785px, 1293px
+1412px, 975px 
+*/
+.sign-in-page-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 975px;
+  overflow: hidden;
+  width: 1412px;
+}
+
+.sign-in-page-2 .sign-in-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1293px;
+  margin-left: -66px;
+  margin-top: 0;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 1785px;
+}
+
+.sign-in-page-2 .overlap-group-container {
+  height: 1058px;
+  position: relative;
+  width: 1484px;
+}
+
+.sign-in-page-2 .overlap-group2 {
+  height: 1058px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1484px;
+}
+
+.sign-in-page-2 .rectangle-9 {
+  border: 3px solid var(--daintree);
+  border-radius: 10px;
+  height: 40px;
+  left: 462px;
+  position: absolute;
+  top: 488px;
+  width: 588px;
+}
+
+.sign-in-page-2 .rectangle-10 {
+  background-color: var(--lavender-purple);
+  border-radius: 30px;
+  height: 77px;
+  left: 583px;
+  position: absolute;
+  top: 733px;
+  width: 310px;
+}
+
+.sign-in-page-2 .login {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: 35px;
+  font-weight: 400;
+  left: 683px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  width: 108px;
+}
+
+.sign-in-page-2 .username-or-email {
+  color: #022b3ae6;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 489px;
+  width: 382px;
+}
+
+.sign-in-page-2 .password {
+  color: #022b3ae6;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 470px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 559px;
+  width: 382px;
+}
+
+.sign-in-page-2 .remember-me {
+  color: var(--black);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 641px;
+  width: 249px;
+}
+
+.sign-in-page-2 .forgot-password {
+  color: var(--black);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 797px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 643px;
+  width: 272px;
+}
+
+.sign-in-page-2 .ellipse-11 {
+  background-color: var(--dingley-2);
+  border-radius: 191px/189px;
+  height: 378px;
+  left: 0;
+  position: absolute;
+  top: 680px;
+  width: 382px;
+}
+
+.sign-in-page-2 .polygon-2 {
+  height: 358px;
+  left: 1206px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.sign-in-page-2 .rectangle-51 {
+  background-color: var(--alto);
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  height: 27px;
+  left: 481px;
+  position: absolute;
+  top: 647px;
+  width: 28px;
+}
+
+.sign-in-page-2 .rectangle-11 {
+  height: 40px;
+  left: 461px;
+  position: absolute;
+  top: 559px;
+  width: 588px;
+}
+
+.sign-in-page-2 .edukos_-_-minimal_-logo-1 {
+  height: 269px;
+  left: 442px;
+  object-fit: cover;
+  position: absolute;
+  top: 187px;
+  width: 627px;
+}
+
+.sign-in-page-2 .arrow-5 {
+  height: 6px;
+  left: 92px;
+  position: absolute;
+  top: 944px;
+  width: 22px;
+}
+
+.sign-in-page-2 .vector-1 {
+  height: 11px;
+  left: 93px;
+  position: absolute;
+  top: 948px;
+  width: 30px;
+}
+
+.sign-in-page-2 .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  left: 90px;
+  padding: 9px 0;
+  position: absolute;
+  top: 20px;
+  width: 376px;
+}
+
+.sign-in-page-2 .overlap-group {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 29px;
+  position: relative;
+  width: 352px;
+}
+
+.sign-in-page-2 .line-34 {
+  height: 5px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.sign-in-page-2 .ellipse-12 {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.sign-in-page-2 .untitled-copy-3-3 {
+  height: 975px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1154px;
+}
+
+.sign-in-page-2 .frame-19 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  left: 1400px;
+  padding: 0 13px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}
+
+.sign-in-page-2 .line-container {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  min-height: 40px;
+  padding: 7.0px 6.0px;
+  width: 40px;
+}
+
+.sign-in-page-2 .line-35 {
+  height: 1px;
+  width: 28px;
+}
+
+.sign-in-page-2 .line-36 {
+  height: 1px;
+  margin-top: 11px;
+  width: 28px;
+}
+
+.sign-in-page-2 .line-37 {
+  height: 1px;
+  margin-top: 9px;
+  width: 28px;
+}
+
+.sign-in-page-2 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5.5px;
+  display: flex;
+  flex-direction: column;
+  left: 1459px;
+  min-height: 11px;
+  padding: 1.8px 1.8px;
+  position: absolute;
+  top: 969px;
+  width: 11px;
+}
+
+.sign-in-page-2 .vector-3 {
+  height: 3px;
+  width: 5px;
+}
+
+.sign-in-page-2 .ellipse-14 {
+  background-color: var(--daintree);
+  border-radius: 0.5px;
+  height: 1px;
+  margin-left: 2.2px;
+  margin-top: 2px;
+  transform: rotate(180deg);
+  width: 1px;
+}
+
+.sign-in-page-2 .line-container-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 367.0px;
+  margin-left: 524px;
+  min-height: 28px;
+  width: 33px;
+}
+
+.sign-in-page-2 .line-3 {
+  height: 1px;
+  width: 33px;
+}
+
+.sign-in-page-2 .line-5 {
+  height: 1px;
+  margin-top: 12px;
+  width: 33px;
+}
+
+.sign-in-page-2 .line-4 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 13px;
+  width: 33px;
+}

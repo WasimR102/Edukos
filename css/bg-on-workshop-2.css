@@ -1,0 +1,119 @@
+/* screen - bg-on-workshop-2 */
+
+.bg-on-workshop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.bg-on-workshop-2 .overlap-group2 {
+  background-color: var(--dingley-2);
+  height: 982px;
+  margin-left: -10px;
+  margin-top: -3px;
+  position: relative;
+  width: 756px;
+}
+
+.bg-on-workshop-2 .rectangle-62 {
+  background-color: var(--white);
+  height: 834px;
+  left: 79px;
+  position: absolute;
+  top: 103px;
+  width: 597px;
+}
+
+.bg-on-workshop-2 .image {
+  color: var(--black);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: 70px;
+  font-weight: 400;
+  left: 287px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 450px;
+}
+
+.bg-on-workshop-2 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 58px;
+  margin-top: 54px;
+  min-height: 906px;
+  width: 650px;
+}
+
+.bg-on-workshop-2 .overlap-group1 {
+  height: 506px;
+  position: relative;
+  width: 650px;
+}
+
+.bg-on-workshop-2 .about {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-eb_garamond);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 116px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 400px;
+}
+
+.bg-on-workshop-2 .in-december-2020-ov {
+  color: var(--black);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: justify;
+  top: 162px;
+  width: 650px;
+}
+
+.bg-on-workshop-2 .frame-9 {
+  align-items: flex-end;
+  display: flex;
+  height: 198px;
+  margin-left: 40.0px;
+  margin-top: 202px;
+  padding: 22px 10px;
+  width: 292px;
+}
+
+.bg-on-workshop-2 .overlap-group {
+  height: 135px;
+  margin-left: 22px;
+  position: relative;
+  width: 250px;
+}
+
+.bg-on-workshop-2 .rectangle-10 {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.bg-on-workshop-2 .start-learning {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 199px;
+}

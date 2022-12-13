@@ -1,0 +1,147 @@
+/* screen - process-in-workshops20 */
+
+.process-in-workshops20 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1577px;
+  padding: 80.8px 0;
+  width: 2184px;
+}
+
+.process-in-workshops20 .overlap-group {
+  height: 137px;
+  margin-top: 81px;
+  position: relative;
+  width: 1398px;
+}
+
+.process-in-workshops20 .rectangle-41 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1398px;
+}
+
+.process-in-workshops20 .rectangle-42 {
+  height: 134px;
+  left: 962px;
+  position: absolute;
+  top: 3px;
+  width: 435px;
+}
+
+.process-in-workshops20 .rectangle-43 {
+  height: 130px;
+  left: 618px;
+  position: absolute;
+  top: 3px;
+  width: 407px;
+}
+
+.process-in-workshops20 .rectangle-11 {
+  height: 132px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.process-in-workshops20 .step-1 {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 230px;
+}
+
+.process-in-workshops20 .step2 {
+  left: 370px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 222px;
+}
+
+.process-in-workshops20 .step-3 {
+  left: 701px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 260px;
+}
+
+.process-in-workshops20 .step-4 {
+  left: 1027px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 283px;
+}
+
+.process-in-workshops20 .time-travel {
+  letter-spacing: 0;
+  margin-right: 76.0px;
+  margin-top: 131px;
+  min-height: 76px;
+  text-align: center;
+  width: 426px;
+}
+
+.process-in-workshops20 .overlap-group2 {
+  height: 686px;
+  margin-left: 8.0px;
+  margin-top: 49px;
+  position: relative;
+  width: 1214px;
+}
+
+.process-in-workshops20 .rectangle-45 {
+  height: 26px;
+  left: 581px;
+  position: absolute;
+  top: 659px;
+  width: 3px;
+}
+
+.process-in-workshops20 .image-55 {
+  height: 686px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1214px;
+}
+
+.process-in-workshops20 .overlap-group1 {
+  background-image: url(../img/rectangle-46-2@2x.svg);
+  background-size: 100% 100%;
+  height: 111px;
+  margin-right: 0.62px;
+  margin-top: 145px;
+  position: relative;
+  width: 409px;
+}
+
+.process-in-workshops20 .arrow-3 {
+  height: 22px;
+  left: 148px;
+  position: absolute;
+  top: 33px;
+  width: 120px;
+}
+
+.process-in-workshops20 .next {
+  left: 95px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: 220px;
+}

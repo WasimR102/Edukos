@@ -1,0 +1,166 @@
+/* screen - process-in-workshops21 */
+
+.process-in-workshops21 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1577px;
+  padding: 80.8px 0;
+  width: 2184px;
+}
+
+.process-in-workshops21 .overlap-group1 {
+  height: 137px;
+  margin-top: 81px;
+  position: relative;
+  width: 1398px;
+}
+
+.process-in-workshops21 .rectangle-41 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1398px;
+}
+
+.process-in-workshops21 .rectangle-42 {
+  height: 134px;
+  left: 962px;
+  position: absolute;
+  top: 3px;
+  width: 435px;
+}
+
+.process-in-workshops21 .rectangle-43 {
+  height: 130px;
+  left: 618px;
+  position: absolute;
+  top: 3px;
+  width: 407px;
+}
+
+.process-in-workshops21 .rectangle-11 {
+  height: 132px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.process-in-workshops21 .step-1 {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 230px;
+}
+
+.process-in-workshops21 .step2 {
+  left: 370px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 222px;
+}
+
+.process-in-workshops21 .step-3 {
+  left: 701px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 260px;
+}
+
+.process-in-workshops21 .step-4h {
+  left: 1027px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 283px;
+}
+
+.process-in-workshops21 .what-do-you-think-wa {
+  letter-spacing: 0;
+  margin-top: 190px;
+  min-height: 143px;
+  text-align: center;
+  width: 1398px;
+}
+
+.process-in-workshops21 .line-30 {
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: 157px;
+  width: 1288px;
+}
+
+.process-in-workshops21 .line-31 {
+  height: 1px;
+  margin-right: 14.0px;
+  margin-top: 145px;
+  width: 1288px;
+}
+
+.process-in-workshops21 .line-32 {
+  height: 1px;
+  margin-left: 1.0px;
+  margin-top: 144px;
+  width: 1303px;
+}
+
+.process-in-workshops21 .overlap-group2 {
+  height: 26px;
+  margin-left: 1.0px;
+  margin-top: 133px;
+  position: relative;
+  width: 1303px;
+}
+
+.process-in-workshops21 .rectangle-45 {
+  height: 26px;
+  left: 629px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.process-in-workshops21 .line-33 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 1303px;
+}
+
+.process-in-workshops21 .overlap-group {
+  background-image: url(../img/rectangle-46@2x.svg);
+  background-size: 100% 100%;
+  height: 111px;
+  margin-right: 0.62px;
+  margin-top: 146px;
+  position: relative;
+  width: 409px;
+}
+
+.process-in-workshops21 .arrow-3 {
+  height: 22px;
+  left: 148px;
+  position: absolute;
+  top: 33px;
+  width: 120px;
+}
+
+.process-in-workshops21 .next {
+  left: 95px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: 220px;
+}

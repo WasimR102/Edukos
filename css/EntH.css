@@ -1,0 +1,100 @@
+/* screen - sign-in-page2 */
+
+.sign-in-page2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1512px;
+}
+
+.sign-in-page2 .rectangle-27 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  width: 756px;
+}
+
+.sign-in-page2 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 29px;
+  margin-top: 31px;
+  min-height: 874px;
+  width: 688px;
+}
+
+.sign-in-page2 .entrepreneurship {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-roboto_mono);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 79.0px;
+  min-height: 44px;
+  text-align: center;
+  width: 335px;
+}
+
+.sign-in-page2 .entrepreneurship-is {
+  color: var(--black);
+  font-family: var(--font-family-rowdies);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0;
+  margin-right: 1px;
+  margin-top: 40px;
+  min-height: 539px;
+  width: 649px;
+}
+
+.sign-in-page2 .span0 {
+  font-weight: 400;
+}
+
+.sign-in-page2 .overlap-group1 {
+  height: 183px;
+  margin-top: 68px;
+  position: relative;
+  width: 688px;
+}
+
+.sign-in-page2 .learning-time {
+  left: 23px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 106px;
+  width: 282px;
+}
+
+.sign-in-page2 .overlap-group {
+  height: 183px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.sign-in-page2 .workshop-estimate-90-minutes {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.sign-in-page2 .rectangle-10 {
+  height: 96px;
+  left: 357px;
+  position: absolute;
+  top: 31px;
+  width: 331px;
+}
+
+.sign-in-page2 .start-learning {
+  left: 428px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 189px;
+}

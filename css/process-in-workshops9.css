@@ -1,0 +1,342 @@
+/* screen - process-in-workshops9 */
+
+.process-in-workshops9 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1577px;
+  overflow: hidden;
+  width: 2184px;
+}
+
+.process-in-workshops9 .process-in-workshops {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1577px;
+  margin-left: -5143px;
+  margin-top: -2168px;
+  overflow: hidden;
+  width: 2184px;
+}
+
+.process-in-workshops9 .flex-col {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: -12278.05px;
+  margin-top: -5000px;
+  min-height: 1333px;
+  width: 1398px;
+}
+
+.process-in-workshops9 .overlap-group1 {
+  height: 134px;
+  position: relative;
+  width: 1398px;
+}
+
+.process-in-workshops9 .rectangle-41 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 1398px;
+}
+
+.process-in-workshops9 .rectangle-42 {
+  height: 134px;
+  left: 963px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.process-in-workshops9 .rectangle-43 {
+  height: 130px;
+  left: 619px;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.process-in-workshops9 .rectangle-11 {
+  height: 129px;
+  left: 278px;
+  position: absolute;
+  top: 1px;
+  width: 408px;
+}
+
+.process-in-workshops9 .line-30 {
+  height: 1px;
+  margin-right: 2.05px;
+  margin-top: 495px;
+  width: 1288px;
+}
+
+.process-in-workshops9 .line-31 {
+  height: 1px;
+  margin-right: 14.05px;
+  margin-top: 145px;
+  width: 1288px;
+}
+
+.process-in-workshops9 .line-32 {
+  height: 1px;
+  margin-left: 0.95px;
+  margin-top: 144px;
+  width: 1303px;
+}
+
+.process-in-workshops9 .overlap-group2 {
+  height: 26px;
+  margin-left: 0.95px;
+  margin-top: 132px;
+  position: relative;
+  width: 1303px;
+}
+
+.process-in-workshops9 .rectangle-45 {
+  height: 26px;
+  left: 629px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.process-in-workshops9 .line-33 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 1303px;
+}
+
+.process-in-workshops9 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-42-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  margin-left: 0.75px;
+  margin-top: 146px;
+  min-width: 408px;
+  padding: 44px 142.4px;
+}
+
+.process-in-workshops9 .arrow-3 {
+  height: 1px;
+  width: 119px;
+}
+
+.process-in-workshops9 .step-container {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-right: 64.0px;
+  margin-top: 3867px;
+  min-width: 1286px;
+}
+
+.process-in-workshops9 .step-1-e {
+  letter-spacing: 0;
+  min-height: 46px;
+  text-align: center;
+  width: 230px;
+}
+
+.process-in-workshops9 .step2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 116px;
+  min-height: 52px;
+  text-align: center;
+  width: 222px;
+}
+
+.process-in-workshops9 .step-3 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 182px;
+  min-height: 49px;
+  text-align: center;
+  width: 174px;
+}
+
+.process-in-workshops9 .step-4 {
+  letter-spacing: 0;
+  margin-left: 181px;
+  min-height: 45px;
+  text-align: center;
+  width: 181px;
+}
+
+.process-in-workshops9 .can-you-give-the-rea {
+  letter-spacing: 0;
+  margin-left: 45.0px;
+  margin-top: 190px;
+  min-height: 141px;
+  text-align: center;
+  width: 1483px;
+}
+
+.process-in-workshops9 .next {
+  letter-spacing: 0;
+  margin-top: 844px;
+  min-height: 24px;
+  text-align: center;
+  width: 220px;
+}
+
+.process-in-workshops9 .overlap-group3 {
+  height: 137px;
+  margin-top: 753px;
+  position: relative;
+  width: 1398px;
+}
+
+.process-in-workshops9 .rectangle-41-1 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1398px;
+}
+
+.process-in-workshops9 .rectangle-42-1 {
+  height: 134px;
+  left: 962px;
+  position: absolute;
+  top: 3px;
+  width: 435px;
+}
+
+.process-in-workshops9 .rectangle-43-1 {
+  height: 130px;
+  left: 618px;
+  position: absolute;
+  top: 3px;
+  width: 407px;
+}
+
+.process-in-workshops9 .rectangle-11-1 {
+  height: 132px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.process-in-workshops9 .step-1 {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 230px;
+}
+
+.process-in-workshops9 .step2-1 {
+  left: 370px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 222px;
+}
+
+.process-in-workshops9 .step-3-b {
+  left: 701px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 260px;
+}
+
+.process-in-workshops9 .step-4-1 {
+  left: 1129px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 181px;
+}
+
+.process-in-workshops9 .using-the-vision-you {
+  letter-spacing: 0;
+  margin-top: 153px;
+  min-height: 204px;
+  text-align: center;
+  width: 1246px;
+}
+
+.process-in-workshops9 .line-30-1 {
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: 133px;
+  width: 1288px;
+}
+
+.process-in-workshops9 .line-31-1 {
+  height: 1px;
+  margin-right: 14.0px;
+  margin-top: 145px;
+  width: 1288px;
+}
+
+.process-in-workshops9 .line-32-1 {
+  height: 1px;
+  margin-left: 1.0px;
+  margin-top: 144px;
+  width: 1303px;
+}
+
+.process-in-workshops9 .overlap-group4 {
+  height: 26px;
+  margin-left: 1.0px;
+  margin-top: 133px;
+  position: relative;
+  width: 1303px;
+}
+
+.process-in-workshops9 .line-33-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 1303px;
+}
+
+.process-in-workshops9 .overlap-group5 {
+  background-image: url(../img/rectangle-46@2x.svg);
+  background-size: 100% 100%;
+  height: 111px;
+  margin-right: 0.62px;
+  margin-top: 146px;
+  position: relative;
+  width: 409px;
+}
+
+.process-in-workshops9 .arrow-3-1 {
+  height: 22px;
+  left: 148px;
+  position: absolute;
+  top: 33px;
+  width: 120px;
+}
+
+.process-in-workshops9 .next-1 {
+  left: 95px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: 220px;
+}

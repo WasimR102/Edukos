@@ -1,0 +1,331 @@
+/* screen - process-in-workshops-new */
+
+.process-in-workshops-new {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1330.33px;
+  padding: 19.0px 24.7px;
+  width: 2047.66px;
+}
+
+.process-in-workshops-new .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 61.91px;
+  min-height: 1191px;
+  width: 1838px;
+}
+
+.process-in-workshops-new .frame-4 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 276px;
+  overflow: hidden;
+  padding: 0 39px;
+  width: 1805px;
+}
+
+.process-in-workshops-new .overlap-group4 {
+  height: 259px;
+  margin-bottom: -29px;
+  position: relative;
+  width: 1696px;
+}
+
+.process-in-workshops-new .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 259px;
+  left: 0;
+  padding: 15px 67px;
+  position: absolute;
+  top: 0;
+  width: 1413px;
+}
+
+.process-in-workshops-new .overlap-group {
+  height: 191px;
+  margin-top: 4px;
+  position: relative;
+  width: 354px;
+}
+
+.process-in-workshops-new .line-38 {
+  height: 1px;
+  left: 195px;
+  position: absolute;
+  top: 91px;
+  width: 159px;
+}
+
+.process-in-workshops-new .ellipse-16 {
+  background-color: var(--daintree);
+  border-radius: 100px/95.5px;
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.process-in-workshops-new .step-1 {
+  left: 39px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 122px;
+}
+
+.process-in-workshops-new .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  margin-top: 2px;
+  min-width: 200px;
+  padding: 62px 34px;
+}
+
+.process-in-workshops-new .step {
+  letter-spacing: 0;
+  min-height: 64px;
+  text-align: center;
+  width: 130px;
+}
+
+.process-in-workshops-new .line-39 {
+  align-self: center;
+  height: 1px;
+  margin-bottom: 38.0px;
+  width: 159px;
+}
+
+.process-in-workshops-new .overlap-group1 {
+  height: 191px;
+  position: relative;
+  width: 358px;
+}
+
+.process-in-workshops-new .line-40 {
+  height: 1px;
+  left: 199px;
+  position: absolute;
+  top: 97px;
+  width: 159px;
+}
+
+.process-in-workshops-new .ellipse-18 {
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.process-in-workshops-new .step-3 {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 130px;
+}
+
+.process-in-workshops-new .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  min-width: 200px;
+  padding: 62px 34px;
+}
+
+.process-in-workshops-new .ellipse-20 {
+  background-color: var(--white-2);
+  border-radius: 100px/96.5px;
+  height: 193px;
+  left: 1496px;
+  position: absolute;
+  top: 9px;
+  width: 200px;
+}
+
+.process-in-workshops-new .line-41 {
+  height: 1px;
+  left: 1338px;
+  position: absolute;
+  top: 112px;
+  width: 159px;
+}
+
+.process-in-workshops-new .rectangle-55 {
+  background-color: var(--daintree);
+  border-radius: 100px;
+  height: 108px;
+  left: 1614px;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-140.00deg);
+  width: 4px;
+}
+
+.process-in-workshops-new .rectangle-56 {
+  background-color: var(--daintree);
+  border-radius: 100px;
+  height: 37px;
+  left: 1572px;
+  position: absolute;
+  top: 115px;
+  transform: rotate(-30.00deg);
+  width: 4px;
+}
+
+.process-in-workshops-new .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 889px;
+  margin-top: 26px;
+  min-width: 1525px;
+}
+
+.process-in-workshops-new .overlap-group5 {
+  height: 85px;
+  margin-bottom: 22.88px;
+  position: relative;
+  width: 178px;
+}
+
+.process-in-workshops-new .rectangle-58 {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.process-in-workshops-new .place {
+  color: var(--dingley-2);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: 55px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+}
+
+.process-in-workshops-new .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 227px;
+  min-height: 889px;
+  width: 1120px;
+}
+
+.process-in-workshops-new .entrepreneurship {
+  letter-spacing: 0;
+  margin-right: 113.52px;
+  min-height: 46px;
+  text-align: center;
+  transform: rotate(-0.62deg);
+  width: 368px;
+}
+
+.process-in-workshops-new .please-watch-the-following-video {
+  letter-spacing: 0;
+  margin-right: 60.99px;
+  margin-top: 5px;
+  min-height: 54px;
+  transform: rotate(-0.62deg);
+  width: 586px;
+}
+
+.process-in-workshops-new .rectangle-57 {
+  background-color: #607c5066;
+  height: 566px;
+  margin-top: 18px;
+  width: 1120px;
+}
+
+.process-in-workshops-new .overlap-group7 {
+  height: 125px;
+  margin-right: 104.0px;
+  margin-top: 75px;
+  position: relative;
+  width: 278px;
+}
+
+.process-in-workshops-new .rectangle-45 {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 261px;
+}
+
+.process-in-workshops-new .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 125px;
+  left: 0;
+  padding: 16px 20px;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.process-in-workshops-new .next {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 91px;
+  text-align: center;
+  width: 220px;
+}
+
+.process-in-workshops-new .overlap-group6 {
+  height: 70px;
+  margin-left: 63px;
+  position: relative;
+  width: 72px;
+}
+
+.process-in-workshops-new .rectangle-59 {
+  background-color: #012b3a61;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.process-in-workshops-new .rectangle-60 {
+  background-color: var(--white);
+  height: 51px;
+  left: 20px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.process-in-workshops-new .rectangle-61 {
+  background-color: var(--white);
+  height: 51px;
+  left: 45px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}

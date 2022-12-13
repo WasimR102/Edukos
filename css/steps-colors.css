@@ -1,0 +1,368 @@
+/* screen - steps-colors */
+
+.steps-colors {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1348.84px;
+  overflow: hidden;
+  padding: 41.7px 0;
+  width: 2031.96px;
+}
+
+.steps-colors .overlap-group8 {
+  height: 375px;
+  margin-left: -18.39px;
+  margin-top: 71px;
+  position: relative;
+  width: 1808px;
+}
+
+.steps-colors .frame-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 324px;
+  left: 2px;
+  padding: 19px 39px;
+  position: absolute;
+  top: 42px;
+  transform: rotate(-0.62deg);
+  width: 1805px;
+}
+
+.steps-colors .overlap-group {
+  height: 259px;
+  position: relative;
+  width: 1696px;
+}
+
+.steps-colors .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 259px;
+  left: 0;
+  padding: 15px 67px;
+  position: absolute;
+  top: 0;
+  width: 1413px;
+}
+
+.steps-colors .overlap-group-1 {
+  height: 191px;
+  margin-top: 4px;
+  position: relative;
+  width: 354px;
+}
+
+.steps-colors .line-38 {
+  height: 1px;
+  left: 195px;
+  position: absolute;
+  top: 91px;
+  width: 159px;
+}
+
+.steps-colors .ellipse-16 {
+  background-color: var(--daintree);
+  border-radius: 100px/95.5px;
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.steps-colors .step-1 {
+  left: 39px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 122px;
+}
+
+.steps-colors .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  margin-top: 2px;
+  min-width: 200px;
+  padding: 62px 34px;
+}
+
+.steps-colors .step {
+  letter-spacing: 0;
+  min-height: 64px;
+  text-align: center;
+  width: 130px;
+}
+
+.steps-colors .line-39 {
+  align-self: center;
+  height: 1px;
+  margin-bottom: 38.0px;
+  width: 159px;
+}
+
+.steps-colors .overlap-group-2 {
+  height: 191px;
+  position: relative;
+  width: 358px;
+}
+
+.steps-colors .line-40 {
+  height: 1px;
+  left: 199px;
+  position: absolute;
+  top: 97px;
+  width: 159px;
+}
+
+.steps-colors .ellipse-18 {
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.steps-colors .step-3 {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 130px;
+}
+
+.steps-colors .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  min-width: 200px;
+  padding: 62px 34px;
+}
+
+.steps-colors .ellipse-20 {
+  background-color: var(--white-2);
+  border-radius: 100px/96.5px;
+  height: 193px;
+  left: 1496px;
+  position: absolute;
+  top: 9px;
+  width: 200px;
+}
+
+.steps-colors .line-41 {
+  height: 1px;
+  left: 1338px;
+  position: absolute;
+  top: 112px;
+  width: 159px;
+}
+
+.steps-colors .rectangle-55 {
+  background-color: var(--daintree);
+  border-radius: 100px;
+  height: 108px;
+  left: 1614px;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-140.00deg);
+  width: 4px;
+}
+
+.steps-colors .rectangle-56 {
+  background-color: var(--daintree);
+  border-radius: 100px;
+  height: 37px;
+  left: 1572px;
+  position: absolute;
+  top: 115px;
+  transform: rotate(-30.00deg);
+  width: 4px;
+}
+
+.steps-colors .in-step-1 {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.62deg);
+  width: 245px;
+}
+
+.steps-colors .overlap-group7 {
+  height: 403px;
+  margin-left: 7.44px;
+  margin-top: 42px;
+  position: relative;
+  width: 1808px;
+}
+
+.steps-colors .frame-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 324px;
+  left: 2px;
+  padding: 19px 39px;
+  position: absolute;
+  top: 69px;
+  transform: rotate(-0.62deg);
+  width: 1805px;
+}
+
+.steps-colors .ellipse-1 {
+  background-color: var(--dingley);
+  border-radius: 100px/95.5px;
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.steps-colors .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  justify-content: flex-end;
+  margin-top: 2px;
+  min-width: 200px;
+  padding: 61px 35px;
+}
+
+.steps-colors .step-2 {
+  letter-spacing: 0;
+  min-height: 67px;
+  text-align: center;
+  width: 122px;
+}
+
+.steps-colors .finishing-step-1-going-to-step-2 {
+  left: 47px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  transform: rotate(-0.62deg);
+  width: 653px;
+}
+
+.steps-colors .overlap-group9 {
+  height: 368px;
+  margin-left: -9.49px;
+  margin-top: 6px;
+  position: relative;
+  width: 1808px;
+}
+
+.steps-colors .frame-8 {
+  align-items: flex-end;
+  display: flex;
+  height: 324px;
+  left: 2px;
+  padding: 19px 39px;
+  position: absolute;
+  top: 34px;
+  transform: rotate(-0.62deg);
+  width: 1805px;
+}
+
+.steps-colors .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  justify-content: flex-end;
+  margin-top: 2px;
+  min-width: 200px;
+  padding: 61px 35px;
+}
+
+.steps-colors .step-3-1 {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 130px;
+}
+
+.steps-colors .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 100px/95.5px;
+  display: flex;
+  height: 191px;
+  min-width: 200px;
+  padding: 63px 35px;
+}
+
+.steps-colors .step-4 {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  min-height: 64px;
+  text-align: center;
+  width: 130px;
+}
+
+.steps-colors .ellipse-20-1 {
+  background-color: #9c7ca580;
+  border-radius: 100px/96.5px;
+  height: 193px;
+  left: 1496px;
+  position: absolute;
+  top: 9px;
+  width: 200px;
+}
+
+.steps-colors .rectangle-55-1 {
+  background-color: var(--white);
+  border-radius: 100px;
+  height: 108px;
+  left: 1614px;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-140.00deg);
+  width: 4px;
+}
+
+.steps-colors .rectangle-56-1 {
+  background-color: var(--white);
+  border-radius: 100px;
+  height: 37px;
+  left: 1572px;
+  position: absolute;
+  top: 115px;
+  transform: rotate(-30.00deg);
+  width: 4px;
+}
+
+.steps-colors .finishing-step-1-going-to-step-2-1 {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  transform: rotate(-0.62deg);
+  width: 653px;
+}

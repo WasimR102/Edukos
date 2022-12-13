@@ -1,0 +1,43 @@
+/* screen - application-for-funders */
+
+.application-for-funders {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  overflow: hidden;
+  padding: 0 229px;
+  width: 1512px;
+}
+
+.application-for-funders .text_label {
+  color: var(--black);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 136.0px;
+  margin-top: -457px;
+  min-height: 39px;
+  width: 18px;
+}
+
+.application-for-funders .what-is-this-page {
+  color: var(--black);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 96.0px;
+  margin-top: 813px;
+  min-height: 126px;
+  width: 734px;
+}
+
+.application-for-funders .screenshot-31-1 {
+  align-self: flex-start;
+  height: 154px;
+  margin-top: 651px;
+  width: 71px;
+}

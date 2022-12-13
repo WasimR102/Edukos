@@ -1,0 +1,364 @@
+/* screen - materials-page */
+
+.materials-page {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1308px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.materials-page .overlap-group4 {
+  height: 1352px;
+  margin-right: -8px;
+  position: relative;
+  width: 1520px;
+}
+
+.materials-page .overlap-group3 {
+  height: 1352px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1439px;
+}
+
+.materials-page .rectangle-63 {
+  background-color: var(--daintree);
+  border-radius: 25px;
+  height: 104px;
+  left: 498px;
+  position: absolute;
+  top: 145px;
+  width: 517px;
+}
+
+.materials-page .material {
+  left: 644px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+}
+
+.materials-page .line-42 {
+  height: 169px;
+  left: 778px;
+  position: absolute;
+  top: 248px;
+  width: 4px;
+}
+
+.materials-page .line-43 {
+  height: 5px;
+  left: 156px;
+  position: absolute;
+  top: 357px;
+  width: 625px;
+}
+
+.materials-page .line-44 {
+  height: 319px;
+  left: 153px;
+  position: absolute;
+  top: 357px;
+  width: 6px;
+}
+
+.materials-page .rectangle-64 {
+  background-color: var(--lavender-purple);
+  border-radius: 25px;
+  height: 88px;
+  left: 42px;
+  position: absolute;
+  top: 676px;
+  width: 250px;
+}
+
+.materials-page .slides {
+  left: 91px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 672px;
+}
+
+.materials-page .rectangle-65 {
+  background-color: var(--dingley-2);
+  border-radius: 25px;
+  height: 88px;
+  left: 394px;
+  position: absolute;
+  top: 559px;
+  width: 250px;
+}
+
+.materials-page .books {
+  left: 444px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 558px;
+}
+
+.materials-page .rectangle-66 {
+  background-color: var(--lavender-purple);
+  border-radius: 25px;
+  height: 97px;
+  left: 1188px;
+  position: absolute;
+  top: 607px;
+  width: 251px;
+}
+
+.materials-page .rectangle-67 {
+  background-color: var(--dingley-2);
+  border-radius: 25px;
+  height: 88px;
+  left: 871px;
+  position: absolute;
+  top: 829px;
+  width: 297px;
+}
+
+.materials-page .articales {
+  left: 888px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 821px;
+  width: 250px;
+}
+
+.materials-page .surveys {
+  left: 1212px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 601px;
+}
+
+.materials-page .line-45 {
+  height: 199px;
+  left: 512px;
+  position: absolute;
+  top: 360px;
+  width: 5px;
+}
+
+.materials-page .line-46 {
+  height: 4px;
+  left: 779px;
+  position: absolute;
+  top: 413px;
+  width: 535px;
+}
+
+.materials-page .line-47 {
+  height: 195px;
+  left: 1311px;
+  position: absolute;
+  top: 413px;
+  width: 4px;
+}
+
+.materials-page .line-48 {
+  height: 415px;
+  left: 995px;
+  position: absolute;
+  top: 414px;
+  width: 4px;
+}
+
+.materials-page .line-50 {
+  height: 87px;
+  left: 155px;
+  position: absolute;
+  top: 764px;
+  width: 3px;
+}
+
+.materials-page .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  left: 42px;
+  padding: 9px 0;
+  position: absolute;
+  top: 40px;
+  width: 376px;
+}
+
+.materials-page .overlap-group {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 29px;
+  position: relative;
+  width: 352px;
+}
+
+.materials-page .line-34 {
+  height: 5px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.materials-page .ellipse-12 {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.materials-page .untitled-copy-3-4 {
+  height: 1308px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1154px;
+}
+
+.materials-page .frame-22 {
+  align-items: flex-end;
+  display: flex;
+  height: 399px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 953px;
+  width: 380px;
+}
+
+.materials-page .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border-radius: 266.5px/266px;
+  display: flex;
+  height: 532px;
+  justify-content: flex-end;
+  margin-bottom: -175px;
+  margin-left: -183px;
+  min-width: 533px;
+  padding: 158px 35px;
+}
+
+.materials-page .any-questions {
+  color: var(--white);
+  font-family: var(--font-family-eb_garamond);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 65px;
+  min-width: 279px;
+  text-align: center;
+}
+
+.materials-page .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  height: 95px;
+  left: 1436px;
+  padding: 0 13px;
+  position: absolute;
+  top: 27px;
+  width: 84px;
+}
+
+.materials-page .line-container {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  min-height: 40px;
+  padding: 7px 6.0px;
+  width: 40px;
+}
+
+.materials-page .line-35 {
+  height: 1px;
+  width: 28px;
+}
+
+.materials-page .line-3 {
+  height: 1px;
+  margin-top: 10px;
+  width: 28px;
+}
+
+.materials-page .frame-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  margin-right: -1138px;
+  margin-top: 811px;
+  width: 1296px;
+}
+
+.materials-page .about {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 167px;
+  letter-spacing: 0;
+  margin-bottom: -146px;
+  margin-top: -1px;
+  text-align: center;
+  width: 400px;
+}
+
+.materials-page .in-december-2020-ov {
+  height: 344px;
+  letter-spacing: 0;
+  margin-bottom: -490px;
+  width: 650px;
+}
+
+.materials-page .rectangle-27 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  margin-bottom: -1473px;
+  min-width: 756px;
+}
+
+.materials-page .learning-time {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1510px;
+  width: 282px;
+}
+
+.materials-page .rectangle-10 {
+  height: 96px;
+  margin-top: -1381px;
+  min-width: 331px;
+}
+
+.materials-page .start-learning {
+  height: 145px;
+  letter-spacing: 0;
+  margin-bottom: -1751px;
+  text-align: center;
+  width: 189px;
+}
+
+.materials-page .workshop-estimate {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1789px;
+  width: 428px;
+}
+
+.materials-page .workshop-estimate-1 {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1827px;
+  width: 428px;
+}

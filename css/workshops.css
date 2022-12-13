@@ -1,0 +1,235 @@
+/* screen - workshops */
+
+.workshops {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.workshops .overlap-group2 {
+  height: 982px;
+  margin-left: -21px;
+  position: relative;
+  width: 1634px;
+}
+
+.workshops .edukos_-_-minimal_-logo-2 {
+  height: 64px;
+  left: 678px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 253px;
+}
+
+.workshops .untitled-copy-4 {
+  height: 982px;
+  left: 291px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1190px;
+}
+
+.workshops .line-12 {
+  height: 6px;
+  left: 21px;
+  position: absolute;
+  top: 185px;
+  width: 1512px;
+}
+
+.workshops .line-15 {
+  height: 6px;
+  left: 21px;
+  position: absolute;
+  top: 608px;
+  width: 1512px;
+}
+
+.workshops .rectangle-26 {
+  background-color: var(--daintree);
+  height: 245px;
+  left: 81px;
+  position: absolute;
+  top: 225px;
+  width: 245px;
+}
+
+.workshops .rectangle-30 {
+  background-color: var(--dingley-2);
+  height: 245px;
+  left: 408px;
+  position: absolute;
+  top: 653px;
+  width: 245px;
+}
+
+.workshops .rectangle-33 {
+  background-color: var(--dingley-2);
+  height: 245px;
+  left: 1389px;
+  position: absolute;
+  top: 653px;
+  width: 245px;
+}
+
+.workshops .rectangle-34 {
+  background-color: var(--dingley-2);
+  height: 245px;
+  left: 1062px;
+  position: absolute;
+  top: 653px;
+  width: 245px;
+}
+
+.workshops .rectangle-31 {
+  background-color: var(--dingley-2);
+  height: 245px;
+  left: 81px;
+  position: absolute;
+  top: 653px;
+  width: 245px;
+}
+
+.workshops .rectangle-32 {
+  background-color: var(--daintree);
+  height: 245px;
+  left: 1389px;
+  position: absolute;
+  top: 225px;
+  width: 245px;
+}
+
+.workshops .rectangle-28 {
+  background-color: var(--daintree);
+  height: 245px;
+  left: 735px;
+  position: absolute;
+  top: 225px;
+  width: 245px;
+}
+
+.workshops .rectangle-29 {
+  background-color: var(--daintree);
+  height: 245px;
+  left: 408px;
+  position: absolute;
+  top: 225px;
+  width: 245px;
+}
+
+.workshops .rectangle-35 {
+  background-color: var(--dingley-2);
+  height: 245px;
+  left: 735px;
+  position: absolute;
+  top: 653px;
+  width: 245px;
+}
+
+.workshops .rectangle-27 {
+  background-color: var(--daintree);
+  height: 245px;
+  left: 1062px;
+  position: absolute;
+  top: 225px;
+  width: 245px;
+}
+
+.workshops .mandatory-classes {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 105px;
+  width: 436px;
+}
+
+.workshops .new-workshops {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 525px;
+  width: 436px;
+}
+
+.workshops .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  height: 49px;
+  left: 1453px;
+  padding: 0 6px;
+  position: absolute;
+  top: 37px;
+  width: 59px;
+}
+
+.workshops .line-container {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  min-height: 40px;
+  padding: 7px 6.0px;
+  width: 40px;
+}
+
+.workshops .line-35 {
+  height: 1px;
+  width: 28px;
+}
+
+.workshops .line-3 {
+  height: 1px;
+  margin-top: 10px;
+  width: 28px;
+}
+
+.workshops .frame-25 {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  left: 21px;
+  padding: 7.0px 0.0px;
+  position: absolute;
+  top: 29px;
+  width: 358px;
+}
+
+.workshops .overlap-group1 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 27px;
+  margin-left: 6px;
+  position: relative;
+  width: 352px;
+}
+
+.workshops .ellipse-15 {
+  height: 17px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.workshops .line-35-1 {
+  height: 5px;
+  left: 20px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}

@@ -1,0 +1,310 @@
+/* screen - bg-on-workshop2 */
+
+.bg-on-workshop2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.bg-on-workshop2 .process-in-workshops {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1592px;
+  margin-left: -16720px;
+  margin-top: 2197px;
+  overflow: hidden;
+  width: 2033px;
+}
+
+.bg-on-workshop2 .flex-col {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 353px;
+  margin-top: 105.0px;
+  min-height: 1245px;
+  width: 1256px;
+}
+
+.bg-on-workshop2 .step-container {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  min-width: 1256px;
+}
+
+.bg-on-workshop2 .step-1-b {
+  letter-spacing: 0;
+  min-height: 46px;
+  text-align: center;
+  width: 192px;
+}
+
+.bg-on-workshop2 .step2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 124px;
+  min-height: 52px;
+  text-align: center;
+  width: 222px;
+}
+
+.bg-on-workshop2 .step-3 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 182px;
+  min-height: 49px;
+  text-align: center;
+  width: 174px;
+}
+
+.bg-on-workshop2 .step-4 {
+  letter-spacing: 0;
+  margin-left: 181px;
+  min-height: 45px;
+  text-align: center;
+  width: 181px;
+}
+
+.bg-on-workshop2 .lets-discuss {
+  letter-spacing: 0;
+  margin-left: 71.0px;
+  margin-top: 179px;
+  min-height: 80px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 415px;
+}
+
+.bg-on-workshop2 .next {
+  letter-spacing: 0;
+  margin-left: 134.0px;
+  margin-top: 909px;
+  min-height: 24px;
+  text-align: center;
+  width: 220px;
+}
+
+.bg-on-workshop2 .step-3-1 {
+  letter-spacing: 0;
+  margin-left: 523px;
+  margin-top: 164.24px;
+  min-height: 41px;
+  text-align: center;
+  transform: rotate(0.62deg);
+  width: 237px;
+}
+
+.bg-on-workshop2 .step-4-1 {
+  letter-spacing: 0;
+  margin-left: 57px;
+  margin-top: 168.02px;
+  min-height: 62px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  transform: rotate(0.62deg);
+  width: 345px;
+}
+
+.bg-on-workshop2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 1361px;
+  margin-left: 7789px;
+  margin-top: -2822.24px;
+  min-width: 2533px;
+}
+
+.bg-on-workshop2 .flex-col-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 1326px;
+  width: 1500px;
+}
+
+.bg-on-workshop2 .overlap-group {
+  align-self: flex-start;
+  height: 134px;
+  position: relative;
+  width: 1398px;
+}
+
+.bg-on-workshop2 .rectangle-41 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 1398px;
+}
+
+.bg-on-workshop2 .rectangle-42 {
+  height: 134px;
+  left: 963px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.bg-on-workshop2 .rectangle-43 {
+  height: 130px;
+  left: 619px;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.bg-on-workshop2 .rectangle-11 {
+  height: 129px;
+  left: 278px;
+  position: absolute;
+  top: 1px;
+  width: 408px;
+}
+
+.bg-on-workshop2 .what-does-an-entrepr {
+  align-self: center;
+  height: 43px;
+  margin-left: 49.83px;
+  margin-top: 251px;
+  width: 1070px;
+}
+
+.bg-on-workshop2 .line-24 {
+  height: 1px;
+  margin-right: 7.01px;
+  margin-top: 162px;
+  width: 1445px;
+}
+
+.bg-on-workshop2 .line-25 {
+  height: 1px;
+  margin-top: 133px;
+  width: 1445px;
+}
+
+.bg-on-workshop2 .line-26 {
+  height: 1px;
+  margin-right: 7.01px;
+  margin-top: 154px;
+  width: 1445px;
+}
+
+.bg-on-workshop2 .line-27 {
+  height: 1px;
+  margin-right: 7.01px;
+  margin-top: 158px;
+  width: 1445px;
+}
+
+.bg-on-workshop2 .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/screenshot--31--1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  margin-right: 1.21px;
+  margin-top: 179px;
+  min-width: 408px;
+  padding: 44px 142.4px;
+}
+
+.bg-on-workshop2 .arrow-2 {
+  height: 1px;
+  width: 119px;
+}
+
+.bg-on-workshop2 .rectangle-13 {
+  height: 129px;
+  margin-left: 592px;
+  width: 441px;
+}
+
+.bg-on-workshop2 .rectangle-27 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  margin-left: 14687px;
+  width: 756px;
+}
+
+.bg-on-workshop2 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 39px;
+  margin-top: 91px;
+  min-height: 787px;
+  width: 688px;
+}
+
+.bg-on-workshop2 .create-your-own-language {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 97.0px;
+  min-height: 44px;
+  text-align: center;
+  width: 335px;
+}
+
+.bg-on-workshop2 .making-a-fictional-l {
+  letter-spacing: 0;
+  margin-top: 56px;
+  min-height: 344px;
+  width: 650px;
+}
+
+.bg-on-workshop2 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 126px;
+  margin-top: 160px;
+  min-width: 688px;
+}
+
+.bg-on-workshop2 .learning-time {
+  letter-spacing: 0;
+  min-height: 76px;
+  min-width: 220px;
+}
+
+.bg-on-workshop2 .overlap-group3 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-image: url(../img/rectangle-40@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 96px;
+  justify-content: flex-end;
+  margin-left: 137px;
+  min-width: 331px;
+  padding: 1px 74px;
+}
+
+.bg-on-workshop2 .start-learning {
+  letter-spacing: 0;
+  min-height: 88px;
+  text-align: center;
+  width: 182px;
+}
+
+.bg-on-workshop2 .workshop-estimate-container {
+  height: 38px;
+  margin-top: 19px;
+  position: relative;
+  width: 428px;
+}
+
+.bg-on-workshop2 .workshop-estimate {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}

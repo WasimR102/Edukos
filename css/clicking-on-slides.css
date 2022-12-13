@@ -1,0 +1,601 @@
+/* screen - clicking-on-slides */
+
+.clicking-on-slides {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1371px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.clicking-on-slides .overlap-group-container {
+  height: 1465px;
+  margin-top: -52px;
+  position: relative;
+  width: 1521px;
+}
+
+.clicking-on-slides .overlap-group14 {
+  height: 1465px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1521px;
+}
+
+.clicking-on-slides .overlap-group8 {
+  height: 1079px;
+  left: 111px;
+  position: absolute;
+  top: 0;
+  width: 1337px;
+}
+
+.clicking-on-slides .line-51 {
+  height: 3px;
+  left: 28px;
+  position: absolute;
+  top: 333px;
+  width: 1309px;
+}
+
+.clicking-on-slides .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 436px;
+  left: 365px;
+  overflow: hidden;
+  padding: 52.0px 0;
+  position: absolute;
+  top: 0;
+  width: 466px;
+}
+
+.clicking-on-slides .rectangle-74 {
+  align-self: flex-end;
+  background-color: var(--daintree);
+  height: 3px;
+  margin-bottom: 48.0px;
+  margin-left: -409px;
+  width: 9px;
+}
+
+.clicking-on-slides .overlap-group {
+  height: 194px;
+  margin-left: 528px;
+  position: relative;
+  width: 250px;
+}
+
+.clicking-on-slides .rectangle-64 {
+  background-color: var(--lavender-purple);
+  border-radius: 25px;
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 250px;
+}
+
+.clicking-on-slides .slides {
+  left: 49px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+}
+
+.clicking-on-slides .line-44 {
+  height: 90px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.clicking-on-slides .line-50 {
+  height: 578px;
+  left: 614px;
+  position: absolute;
+  top: 246px;
+  width: 4px;
+}
+
+.clicking-on-slides .line-52 {
+  height: 162px;
+  left: 231px;
+  position: absolute;
+  top: 333px;
+  width: 3px;
+}
+
+.clicking-on-slides .rectangle-68 {
+  background-color: var(--dingley);
+  border-radius: 25px;
+  height: 126px;
+  left: 16px;
+  position: absolute;
+  top: 495px;
+  width: 426px;
+}
+
+.clicking-on-slides .enterpreneurship {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 515px;
+  width: 468px;
+}
+
+.clicking-on-slides .line-54 {
+  height: 306px;
+  left: 1214px;
+  position: absolute;
+  top: 333px;
+  width: 3px;
+}
+
+.clicking-on-slides .line-57 {
+  height: 743px;
+  left: 1032px;
+  position: absolute;
+  top: 336px;
+  width: 3px;
+}
+
+.clicking-on-slides .line-56 {
+  height: 267px;
+  left: 860px;
+  position: absolute;
+  top: 508px;
+  width: 3px;
+}
+
+.clicking-on-slides .line-55 {
+  height: 3px;
+  left: 616px;
+  position: absolute;
+  top: 508px;
+  width: 247px;
+}
+
+.clicking-on-slides .overlap-group5 {
+  height: 86px;
+  left: 21px;
+  position: absolute;
+  top: 272px;
+  width: 116px;
+}
+
+.clicking-on-slides .frame-17 {
+  align-items: flex-end;
+  display: flex;
+  height: 86px;
+  left: 46px;
+  padding: 22px 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.clicking-on-slides .rectangle {
+  background-color: var(--daintree);
+  height: 3px;
+  width: 9px;
+}
+
+.clicking-on-slides .rectangle-7 {
+  background-color: var(--daintree);
+  height: 3px;
+  margin-left: 3px;
+  width: 9px;
+}
+
+.clicking-on-slides .arrow-7 {
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 28px;
+  width: 56px;
+}
+
+.clicking-on-slides .place {
+  color: var(--daintree);
+  font-family: var(--font-family-eb_garamond);
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 86px;
+}
+
+.clicking-on-slides .rectangle-81 {
+  background-color: var(--daintree);
+  height: 3px;
+  left: 55px;
+  position: absolute;
+  top: 333px;
+  width: 9px;
+}
+
+.clicking-on-slides .rectangle-82 {
+  background-color: var(--daintree);
+  height: 3px;
+  left: 43px;
+  position: absolute;
+  top: 333px;
+  width: 9px;
+}
+
+.clicking-on-slides .rectangle-83 {
+  background-color: var(--daintree);
+  height: 3px;
+  left: 31px;
+  position: absolute;
+  top: 333px;
+  width: 9px;
+}
+
+.clicking-on-slides .rectangle-84 {
+  background-color: var(--daintree);
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 333px;
+  width: 9px;
+}
+
+.clicking-on-slides .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 25px;
+  display: flex;
+  height: 126px;
+  justify-content: flex-end;
+  left: 295px;
+  min-width: 260px;
+  padding: 28px 2px;
+  position: absolute;
+  top: 761px;
+}
+
+.clicking-on-slides .design {
+  letter-spacing: 0;
+  min-height: 68px;
+  text-align: center;
+  width: 255px;
+}
+
+.clicking-on-slides .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 25px;
+  display: flex;
+  height: 126px;
+  justify-content: flex-end;
+  left: 841px;
+  min-width: 260px;
+  padding: 21px 0;
+  position: absolute;
+  top: 775px;
+}
+
+.clicking-on-slides .psychology {
+  letter-spacing: 0;
+  min-height: 82px;
+  text-align: center;
+  width: 257px;
+}
+
+.clicking-on-slides .overlap-group12 {
+  align-items: flex-end;
+  background-color: var(--dingley);
+  border-radius: 25px;
+  display: flex;
+  height: 126px;
+  justify-content: flex-end;
+  left: 1195px;
+  min-width: 260px;
+  padding: 28px 0;
+  position: absolute;
+  top: 639px;
+}
+
+.clicking-on-slides .time-travel {
+  letter-spacing: 0;
+  min-height: 68px;
+  text-align: center;
+  width: 255px;
+}
+
+.clicking-on-slides .overlap-group10 {
+  height: 86px;
+  left: 1435px;
+  position: absolute;
+  top: 272px;
+  width: 86px;
+}
+
+.clicking-on-slides .place-1 {
+  color: var(--daintree);
+  font-family: var(--font-family-eb_garamond);
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 86px;
+}
+
+.clicking-on-slides .arrow-6 {
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 22px;
+  width: 56px;
+}
+
+.clicking-on-slides .frame-16 {
+  align-items: flex-end;
+  display: flex;
+  height: 86px;
+  left: 16px;
+  padding: 22px 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.clicking-on-slides .overlap-group7 {
+  height: 396px;
+  left: 433px;
+  position: absolute;
+  top: 824px;
+  width: 368px;
+}
+
+.clicking-on-slides .line-53 {
+  height: 3px;
+  left: 122px;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.clicking-on-slides .line-59 {
+  height: 203px;
+  left: 158px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.clicking-on-slides .frame-15 {
+  align-items: flex-end;
+  display: flex;
+  height: 261px;
+  left: 0;
+  padding: 67px 30px;
+  position: absolute;
+  top: 135px;
+  width: 368px;
+}
+
+.clicking-on-slides .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 25px;
+  display: flex;
+  height: 126px;
+  min-width: 260px;
+  padding: 21px 1px;
+}
+
+.clicking-on-slides .dancing {
+  letter-spacing: 0;
+  min-height: 68px;
+  text-align: center;
+  width: 255px;
+}
+
+.clicking-on-slides .frame-13-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 55px;
+  left: 40px;
+  padding: 9px 0;
+  position: absolute;
+  top: 97px;
+  width: 376px;
+}
+
+.clicking-on-slides .overlap-group2 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 29px;
+  position: relative;
+  width: 352px;
+}
+
+.clicking-on-slides .line-34 {
+  height: 5px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.clicking-on-slides .ellipse-12 {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.clicking-on-slides .frame-21 {
+  align-items: flex-end;
+  display: flex;
+  height: 399px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 1066px;
+  width: 380px;
+}
+
+.clicking-on-slides .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border-radius: 266.5px/266px;
+  display: flex;
+  height: 532px;
+  justify-content: flex-end;
+  margin-bottom: -175px;
+  margin-left: -183px;
+  min-width: 533px;
+  padding: 158px 35px;
+}
+
+.clicking-on-slides .any-questions {
+  color: var(--white);
+  font-family: var(--font-family-eb_garamond);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 65px;
+  min-width: 279px;
+  text-align: center;
+}
+
+.clicking-on-slides .frame-23 {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  left: 1444px;
+  padding: 0 13px;
+  position: absolute;
+  top: 73px;
+  width: 68px;
+}
+
+.clicking-on-slides .line-container {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  min-height: 40px;
+  padding: 7px 6.0px;
+  width: 40px;
+}
+
+.clicking-on-slides .line-35 {
+  height: 1px;
+  width: 28px;
+}
+
+.clicking-on-slides .line-3 {
+  height: 1px;
+  margin-top: 10px;
+  width: 28px;
+}
+
+.clicking-on-slides .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--dingley);
+  border-radius: 25px;
+  display: flex;
+  height: 126px;
+  left: 1012px;
+  min-width: 260px;
+  padding: 21px 0;
+  position: absolute;
+  top: 1079px;
+}
+
+.clicking-on-slides .art-history {
+  letter-spacing: 0;
+  min-height: 82px;
+  text-align: center;
+  width: 257px;
+}
+
+.clicking-on-slides .frame-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  margin-right: -1138px;
+  margin-top: 750px;
+  width: 1296px;
+}
+
+.clicking-on-slides .title {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-rubik);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 167px;
+  letter-spacing: 0;
+  margin-bottom: -146px;
+  margin-top: -1px;
+  text-align: center;
+  width: 400px;
+}
+
+.clicking-on-slides .in-december-2020-ov {
+  height: 344px;
+  letter-spacing: 0;
+  margin-bottom: -490px;
+  width: 650px;
+}
+
+.clicking-on-slides .rectangle-27 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  margin-bottom: -1473px;
+  min-width: 756px;
+}
+
+.clicking-on-slides .learning-time {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1510px;
+  width: 282px;
+}
+
+.clicking-on-slides .rectangle-10 {
+  height: 96px;
+  margin-top: -3001px;
+  min-width: 331px;
+}
+
+.clicking-on-slides .start-learning {
+  height: 145px;
+  letter-spacing: 0;
+  margin-bottom: -1751px;
+  text-align: center;
+  width: 189px;
+}
+
+.clicking-on-slides .workshop-estimate {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1789px;
+  width: 428px;
+}
+
+.clicking-on-slides .workshop-estimate-1 {
+  height: 38px;
+  letter-spacing: 0;
+  margin-bottom: -1827px;
+  width: 428px;
+}

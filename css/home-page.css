@@ -1,0 +1,303 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.home-page .overlap-group7 {
+  height: 1836px;
+  margin-left: 40px;
+  margin-top: -581.0px;
+  position: relative;
+  width: 2337px;
+}
+
+.home-page .overlap-group-container {
+  height: 1836px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2337px;
+}
+
+.home-page .overlap-group6 {
+  height: 1836px;
+  left: 594px;
+  position: absolute;
+  top: 0;
+  width: 1743px;
+}
+
+.home-page .rectangle-49 {
+  background-color: var(--daintree);
+  height: 1675px;
+  left: 468px;
+  position: absolute;
+  top: 81px;
+  transform: rotate(-38.58deg);
+  width: 845px;
+}
+
+.home-page .untitled-copy-3-2 {
+  height: 982px;
+  left: 175px;
+  object-fit: cover;
+  position: absolute;
+  top: 581px;
+  width: 703px;
+}
+
+.home-page .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 451px;
+  left: 0;
+  padding: 33px 45px;
+  position: absolute;
+  top: 1166px;
+  width: 362px;
+}
+
+.home-page .overlap-group1 {
+  height: 109px;
+  position: relative;
+  width: 246px;
+}
+
+.home-page .rectangle-50 {
+  background-color: var(--lavender-purple);
+  border-radius: 50px;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.home-page .sign-in {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 126px;
+}
+
+.home-page .overlap-group2 {
+  height: 105px;
+  margin-left: 8px;
+  margin-top: 12px;
+  position: relative;
+  width: 238px;
+}
+
+.home-page .rectangle-48 {
+  background-color: var(--dingley-2);
+  border-radius: 50px;
+  height: 105px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 235px;
+}
+
+.home-page .sign-up {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 238px;
+}
+
+.home-page .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  left: 806px;
+  padding: 0 13px;
+  position: absolute;
+  top: 600px;
+  width: 84px;
+}
+
+.home-page .line-container {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  min-height: 40px;
+  padding: 7.0px 6.0px;
+  width: 40px;
+}
+
+.home-page .line-35 {
+  height: 1px;
+  width: 28px;
+}
+
+.home-page .line-3 {
+  height: 1px;
+  margin-top: 10px;
+  width: 28px;
+}
+
+.home-page .overlap-group5 {
+  height: 766px;
+  left: 0;
+  position: absolute;
+  top: 694px;
+  width: 632px;
+}
+
+.home-page .in-december-2020-ov {
+  color: var(--daintree);
+  font-family: var(--font-family-eb_garamond);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  left: 56px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: justify;
+  top: 137px;
+  width: 498px;
+}
+
+.home-page .about-edukos {
+  color: var(--lavender-purple);
+  font-family: var(--font-family-eb_garamond);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 632px;
+}
+
+.home-page .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  height: 73px;
+  left: 29px;
+  padding: 9px 0;
+  position: absolute;
+  top: 606px;
+  width: 363px;
+}
+
+.home-page .overlap-group3 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 29px;
+  position: relative;
+  width: 352px;
+}
+
+.home-page .ellipse-12 {
+  height: 17px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.home-page .line-34 {
+  height: 5px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.home-page .sign-in-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  margin-left: 8667px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.home-page .rectangle-38 {
+  height: 96px;
+  margin-left: -6386px;
+  margin-top: -20px;
+  width: 331px;
+}
+
+.home-page .rectangle-37 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  margin-left: 6055px;
+  width: 756px;
+}
+
+.home-page .flex-col {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  margin-top: 3.0px;
+  min-height: 817px;
+  width: 688px;
+}
+
+.home-page .time-travel {
+  letter-spacing: 0;
+  margin-right: 71.0px;
+  min-height: 44px;
+  text-align: center;
+  width: 335px;
+}
+
+.home-page .time-travel-is-commo {
+  letter-spacing: 0;
+  margin-right: 8.0px;
+  margin-top: 28px;
+  min-height: 344px;
+  width: 650px;
+}
+
+.home-page .overlap-group {
+  height: 178px;
+  margin-top: 223px;
+  position: relative;
+  width: 688px;
+}
+
+.home-page .learning-time {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 86px;
+  width: 282px;
+}
+
+.home-page .workshop-estimate-90-minutes {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.home-page .start-learning {
+  left: 380px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 189px;
+}

@@ -1,0 +1,87 @@
+/* screen - sign-in-page */
+
+.sign-in-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1512px;
+}
+
+.sign-in-page .rectangle-39 {
+  background-color: var(--mist-gray);
+  height: 982px;
+  width: 756px;
+}
+
+.sign-in-page .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 27px;
+  margin-top: 79px;
+  min-height: 824px;
+  width: 702px;
+}
+
+.sign-in-page .design-101 {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 44px;
+  width: 175px;
+}
+
+.sign-in-page .overlap-group1 {
+  height: 747px;
+  margin-top: 33px;
+  position: relative;
+  width: 702px;
+}
+
+.sign-in-page .overlap-group {
+  height: 704px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 702px;
+}
+
+.sign-in-page .graphic-design-is-th {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 700px;
+}
+
+.sign-in-page .workshop-estimate-90-minutes {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 557px;
+  width: 352px;
+}
+
+.sign-in-page .rectangle-40 {
+  height: 96px;
+  left: 371px;
+  position: absolute;
+  top: 608px;
+  width: 331px;
+}
+
+.sign-in-page .start-learning {
+  left: 436px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 625px;
+  width: 190px;
+}
+
+.sign-in-page .learning-estimate {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 659px;
+  width: 352px;
+}
